@@ -1,5 +1,8 @@
-title: DevSecOps Course Portfolio
-description: JHU Final Assignment Site
+title: DevSecOps Portfolio
+description: Course Projects & Technical Documentation
 theme: jekyll-theme-cayman
 baseurl: "/dev-secops-student.github.io"
 url: "https://devsec-ops-student.github.io"
+
+# Hide automatic GitHub repository header buttons
+show_downloads: false
