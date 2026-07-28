@@ -1,5 +1,5 @@
 title: DevSecOps Course Portfolio
 description: JHU Final Assignment Site
 theme: jekyll-theme-cayman
-plugins:
-  - jekyll-remote-theme
+baseurl: "/dev-secops-student.github.io"
+url: "https://devsec-ops-student.github.io"
